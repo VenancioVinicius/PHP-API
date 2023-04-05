@@ -1,0 +1,6 @@
+INSERT INTO `students`(`id`, `nome`, `turma`) VALUES (1,'vinicius','tads20');
+INSERT INTO `students`(`id`, `nome`, `turma`) VALUES (2,'nikolas','tads21');
+INSERT INTO `students`(`id`, `nome`, `turma`) VALUES (3,'wesley','tads22');
+INSERT INTO `students`(`id`, `nome`, `turma`) VALUES (4,'paula','tads22');
+INSERT INTO `students`(`id`, `nome`, `turma`) VALUES (5,'fran','tads21');
+INSERT INTO `students`(`id`, `nome`, `turma`) VALUES (6,'gab','tads22');
